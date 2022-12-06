@@ -1,0 +1,63 @@
+{
+    "message": "Success",
+    "data":{
+        "categories":[
+            {
+                "name": "Home"
+            },
+            {
+                "name":"Pages"
+            },
+            {
+                "name":"Shop"
+            }
+        ],
+        "products":[
+            {
+                "name":"Pink Smoothie",
+                "description":"Pink",
+                "price": 12
+            },
+            {
+                "name":"White Smoothie",
+                "description":"White",
+                "price": 12
+            },
+            {
+                "name":"Fresh Smoothie",
+                "description":"White",
+                "price": 12
+            },
+            {
+                "name":"Pink Smoothie",
+                "description":"Pink",
+                "price": 12
+            },
+            {
+                "name":"White Smoothie",
+                "description":"White",
+                "price": 12
+            },
+            {
+                "name":"Fresh Smoothie",
+                "description":"White",
+                "price": 12
+            },
+            {
+                "name":"Pink Smoothie",
+                "description":"Pink",
+                "price": 12
+            },
+            {
+                "name":"White Smoothie",
+                "description":"White",
+                "price": 12
+            },
+            {
+                "name":"Fresh Smoothie",
+                "description":"White",
+                "price": 12
+            }
+        ]
+    }    
+}
